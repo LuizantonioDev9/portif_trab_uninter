@@ -15,7 +15,7 @@
 .mysql::before {
     /* display: flex; */
     content: " ";
-    background-image: url(/assets/icons/mysql-svgrepo-com.svg);
+    background-image: url(./assets/icons/mysql-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
@@ -30,7 +30,7 @@
 .java::before {
     /* display: flex; */
     content: " ";
-    background-image: url(/assets/icons/java-svgrepo-com.svg);
+    background-image: url(./assets/icons/java-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
@@ -45,7 +45,7 @@
 .python::before {
     /* display: flex; */
     content: " ";
-    background-image: url(/assets/icons/python-127-svgrepo-com.svg);
+    background-image: url(./assets/icons/python-127-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
@@ -61,7 +61,7 @@
     display: inline-block;
     text-align: center;
     content: " ";
-    background-image: url(/assets/icons/computer-tv-svgrepo-com.svg);
+    background-image: url(./assets/icons/computer-tv-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
