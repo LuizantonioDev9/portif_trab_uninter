@@ -4,7 +4,7 @@ body {
 /* o before vai está colocando uma imagem em uma camada anterior do body */
 body::before {
     content: "";
-    background-image: url(/assets/img/1214127.jpg);
+    background-image: url(./assets/img/1214127.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -103,7 +103,7 @@ body::before {
 .games::before {
     display: inline-block;
     content: " ";
-    background-image: url(/assets/icons/gamer-arcade-svgrepo-com.svg);
+    background-image: url(./assets/icons/gamer-arcade-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
@@ -117,7 +117,7 @@ body::before {
 .casa::before {
     display: inline-block;
     content: " ";
-    background-image: url(/assets/icons/house-svgrepo-com.svg);
+    background-image: url(./assets/icons/house-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
@@ -131,7 +131,7 @@ body::before {
 .idade::before {
     display: inline-block;
     content: " ";
-    background-image: url(/assets/icons/balloons-birthday-svgrepo-com.svg);
+    background-image: url(./assets/icons/balloons-birthday-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
@@ -146,7 +146,7 @@ body::before {
     display: inline-block;
     text-align: center;
     content: " ";
-    background-image: url(/assets/icons/person-who-gargles-svgrepo-com.svg);
+    background-image: url(./assets/icons/person-who-gargles-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 0;
